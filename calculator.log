@@ -1,0 +1,5 @@
+2025-03-26T05:34:45.503Z [32minfo[39m: Calculator microservice running on http://localhost:3000
+2025-03-26T05:35:57.716Z [32minfo[39m: Calculator microservice running on http://localhost:3000
+2025-03-26T05:36:49.923Z [32minfo[39m: Exponentiation: 2 ^ 3 = 8
+2025-03-26T05:37:26.856Z [32minfo[39m: Square Root: √16 = 4
+2025-03-26T05:39:17.587Z [32minfo[39m: Modulo: 10 % 3 = 1
